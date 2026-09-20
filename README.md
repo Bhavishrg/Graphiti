@@ -1,3 +1,9 @@
+> **Deprecated — implementation moved**
+>
+> This repository is no longer maintained. 
+> For the latest Graphiti implementation, see [CRiS-MPC](https://github.com/Bhavishrg/CRiS-MPC).
+
+
 # Graphiti
 
 This directory contains the implementation of the Graphiti secure graph computation protocol.
