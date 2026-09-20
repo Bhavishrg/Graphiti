@@ -1,7 +1,7 @@
 > **Deprecated — implementation moved**
 >
 > This repository is no longer maintained. 
-> For the latest Graphiti implementation, see [CRiS-MPC](https://github.com/Bhavishrg/CRiS-MPC).
+> For the latest Graphiti implementation, see [CrIS-MPC](https://github.com/Bhavishrg/CrIS-MPC).
 
 
 # Graphiti
